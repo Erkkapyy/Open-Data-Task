@@ -1,8 +1,6 @@
 import React from "react"
 
 const Data = response => {
-  console.log("Data from eficode API: ", response)
-
   return (
     <>
       <div>
