@@ -14,7 +14,6 @@ const getData = async () => {
   }
 
   const response = await axios.get(`${dataApiUrl}/events`, config)
-  console.log("response data: ", response.data)
 
   return response.data
 }

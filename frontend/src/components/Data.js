@@ -1,7 +1,7 @@
 import React from "react"
 
 const Data = response => {
-  console.log("data4: ", response)
+  console.log("Data from eficode API: ", response)
 
   return (
     <>
