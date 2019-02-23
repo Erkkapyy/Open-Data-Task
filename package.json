@@ -17,5 +17,11 @@
     "mongoose": "^5.4.14",
     "mongoose-unique-validator": "^2.0.2",
     "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-plugin-react": "^7.12.4",
+    "jest-dom": "^3.1.2",
+    "react-testing-library": "^5.9.0"
   }
 }
